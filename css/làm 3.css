@@ -1,0 +1,45 @@
+.three {
+  background-color: #211e1e;
+}
+.tou{
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+.diff {
+  text-decoration: underline;
+  font-size: 30px;
+  color: #f0f0f0;
+}
+.ruler {
+  height: 2px;
+  background-color: #ffffff;
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+.grid {
+  display: flex;
+  gap: 60px;
+  padding-bottom: 80px;
+}
+.item {
+  text-align: center;
+  width: min-content;
+}
+.ulti {
+  color: #ececec;
+  font-size: 30px;
+}
+.pl {
+  color: #6c6a6a;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.item img {
+  object-fit: cover;
+  width: 240px;
+  height: 300px;
+}

@@ -1,0 +1,36 @@
+
+.ni {
+  display: flex;
+  justify-content: space-evenly ;
+  background-color: #ffffff;
+  padding: 140px 0;
+}
+.text {
+  display: flex;
+  width: 50%;
+  align-items: center;
+}
+.pro, .hi {
+  color: #757575;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: 1.5
+}
+.hello {
+  color: #707070;
+  font-size: 25px;
+}
+.hi {
+  margin-top: 20px
+}
+.ert {
+  display: block
+}
+.tey {
+  display: flex;  
+  margin-right: 100px;
+}
+.ter{
+  margin-left: 200px;
+  margin-right: 110px;
+}

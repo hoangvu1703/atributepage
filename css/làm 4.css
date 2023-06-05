@@ -1,0 +1,44 @@
+.jiji {
+  background-color: #ffffff;
+}
+.otp {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+  padding-top: 40px;
+}
+.mq {
+  text-decoration: underline;
+  font-size: 30px;
+}
+.it{
+  margin-top: 90px;
+}
+.this, .that, .there {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.there {
+  margin-right: 14px;
+  margin-top: 32px;
+  padding-bottom: 200px;
+}
+.that {
+  margin-left: 42px;
+  margin-top: 32px;
+}
+.lolo{
+  border-radius: 50%;
+}
+.put {
+  font-size: 30px;
+  color: #3c3b3b;
+}
+.tnh {
+  font-size: 18px;
+  color: #8a8989;
+}
+.lop, .las, .those {
+  margin-right: 30px;
+} 

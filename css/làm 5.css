@@ -1,0 +1,80 @@
+.five {
+  background-color: #211e1e ;
+}
+.aa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.gg {
+  text-decoration: underline;
+  color: #6d6d6d;
+  font-size: 30px;
+}
+.ss {
+  display: flex;
+  justify-content: center;
+  gap: 290px;
+  padding-top: 110px;
+  padding-left: 400px;
+  padding-right: 400px;
+  padding-bottom: 200px;
+}
+.dd, .hh{
+  border: #414040 solid 1px;
+  background-color: #fefefe;
+}
+
+.fa {
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-twitter {
+  color: #373636;
+}
+.fa-instagram {
+  color: #373636;
+}
+.ff {
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  align-items: center;
+  border: #211e1e solid 2px;
+}
+.kk, .jj {
+  color: #414040;
+  margin-top: 60px;
+}
+.zz {
+  display: flex;
+  justify-content: center;
+}
+.ll {
+  padding: 12px 65px;
+  font-size: 22px;
+  background-color: #000;
+  color: #fefefe;
+  margin: 60px 0;
+}
+.ii{
+  text-align: center;
+  margin-left: 60px;
+  margin-right: 60px; 
+}
+.rr {
+  height: 2px;
+  background-color: #211e1e;
+}
+.tt {
+  display :flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}

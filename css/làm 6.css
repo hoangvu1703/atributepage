@@ -1,0 +1,42 @@
+.six {
+    background-image : url(https://image.bnews.vn/MediaUpload/Org/2023/05/23/74ba7a182f58c6069f49-20230523123556.jpg),
+    linear-gradient(0, #525253,#525253) ;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.hoho {
+    padding-top: 300px;
+    padding-bottom: 125px;
+}
+.hyhy {
+    text-align: center;
+    margin-right: 28cm ;
+    margin-left: 300px;
+    padding: 78px 32px;
+    text-shadow:1px 1px 0 #000;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.hqhq {
+    font-size: 30px;
+    padding: 15px 55px;
+    margin: 50px 0;
+    background-color: greenyellow;
+    color: #ffffff;
+    border: 0;
+}
+.qtqt {
+    font-size: 75px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+.nm {
+    color: #898988;
+    font-size: 20px;
+}
+.sgv {
+    margin-top: -335px;
+    margin-bottom: -125px;
+}
