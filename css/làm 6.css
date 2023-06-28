@@ -27,6 +27,9 @@
     color: #ffffff;
     border: 0;
 }
+a {
+    text-decoration: none;
+}
 .qtqt {
     font-size: 75px;
     color: #ffffff;
